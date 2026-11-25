@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Adarsh Motors Elite Showroom 90",
+  "description": "Luxury automotive web application featuring live Supabase inventory sync, interactive bike showcases, and seamless lead generation for clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
